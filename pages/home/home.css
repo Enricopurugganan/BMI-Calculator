@@ -1,0 +1,17 @@
+ion-content{
+  background: linear-gradient to (bottom,#f1f2b5,#135058 );
+
+
+background: linear-gradient(to right, #78ffd6, #a8ff78); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+h2{
+  color: #0f6834;
+}
+
+p{font-family: arial,helvetica,sans-serif ;
+
+text-align: justify;
+}
